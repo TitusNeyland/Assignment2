@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Titus Neyland\source\repos\Assignment2\Assignment2\Source.cpp(15,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Titus Neyland\source\repos\Assignment2\Assignment2\Source.cpp(16,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Titus Neyland\source\repos\Assignment2\Assignment2\Source.cpp(54,3): warning C4551: function call missing argument list
+  Assignment2.vcxproj -> C:\Users\Titus Neyland\source\repos\Assignment2\x64\Debug\Assignment2.exe
